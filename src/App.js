@@ -27,7 +27,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/adaptive-learning-dashboard">
       <div className="App">
         <Routes>
           <Route
