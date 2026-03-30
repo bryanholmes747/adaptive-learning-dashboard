@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b176e414.css",
-    "main.js": "/static/js/main.bac87291.js",
-    "static/js/453.d7446e4a.chunk.js": "/static/js/453.d7446e4a.chunk.js",
-    "index.html": "/index.html",
-    "main.b176e414.css.map": "/static/css/main.b176e414.css.map",
-    "main.bac87291.js.map": "/static/js/main.bac87291.js.map",
-    "453.d7446e4a.chunk.js.map": "/static/js/453.d7446e4a.chunk.js.map"
+    "main.css": "/adaptive-learning-dashboard/static/css/main.b176e414.css",
+    "main.js": "/adaptive-learning-dashboard/static/js/main.d32d22b6.js",
+    "static/js/453.d7446e4a.chunk.js": "/adaptive-learning-dashboard/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/adaptive-learning-dashboard/index.html",
+    "main.b176e414.css.map": "/adaptive-learning-dashboard/static/css/main.b176e414.css.map",
+    "main.d32d22b6.js.map": "/adaptive-learning-dashboard/static/js/main.d32d22b6.js.map",
+    "453.d7446e4a.chunk.js.map": "/adaptive-learning-dashboard/static/js/453.d7446e4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b176e414.css",
-    "static/js/main.bac87291.js"
+    "static/js/main.d32d22b6.js"
   ]
 }
